@@ -1,5 +1,5 @@
 <update>  
 <version>2</version>  
-<name>helloworld</name>  
-<url>http://helloworld.apk</url>  
+<name>app-debug.apk</name>  
+<url>https://github.com/guoyinchen/iot-update/blob/master/app-debug.apk?raw=true</url>  
 </update>  
